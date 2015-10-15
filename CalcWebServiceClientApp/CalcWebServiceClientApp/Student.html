@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script language="JavaScript">
+       
+        var iCallID;
+        function InitializeService() {
+
+            service.useService("http://localhost:56771/StudentWebService.asmx?wsdl",
+            "GetDateTimeService");
+            service.GetDateTimeService.callService("GetDateTime");
+        }
+        function ShowResult(){
+            alert(event.result.value);
+        }
+    </script>
+</head>
+<body >
+    <div id="service" style="behavior:url('webservice.htc')" onresult="getResult()"></div>
+    <asp:Label ID="Result" runat="server">Result will be here.</asp:Label>
+    </div> 
+</body>
+</html>

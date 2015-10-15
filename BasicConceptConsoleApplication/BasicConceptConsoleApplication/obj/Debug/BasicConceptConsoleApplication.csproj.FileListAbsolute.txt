@@ -1,0 +1,6 @@
+c:\users\deharish\documents\visual studio 2013\Projects\BasicConceptConsoleApplication\BasicConceptConsoleApplication\bin\Debug\BasicConceptConsoleApplication.exe.config
+c:\users\deharish\documents\visual studio 2013\Projects\BasicConceptConsoleApplication\BasicConceptConsoleApplication\bin\Debug\BasicConceptConsoleApplication.exe
+c:\users\deharish\documents\visual studio 2013\Projects\BasicConceptConsoleApplication\BasicConceptConsoleApplication\bin\Debug\BasicConceptConsoleApplication.pdb
+c:\users\deharish\documents\visual studio 2013\Projects\BasicConceptConsoleApplication\BasicConceptConsoleApplication\obj\Debug\BasicConceptConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\deharish\documents\visual studio 2013\Projects\BasicConceptConsoleApplication\BasicConceptConsoleApplication\obj\Debug\BasicConceptConsoleApplication.exe
+c:\users\deharish\documents\visual studio 2013\Projects\BasicConceptConsoleApplication\BasicConceptConsoleApplication\obj\Debug\BasicConceptConsoleApplication.pdb

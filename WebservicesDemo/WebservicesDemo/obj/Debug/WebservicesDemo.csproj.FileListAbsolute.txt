@@ -1,0 +1,6 @@
+c:\users\deharish\documents\visual studio 2013\Projects\WebservicesDemo\WebservicesDemo\bin\WebservicesDemo.dll.config
+c:\users\deharish\documents\visual studio 2013\Projects\WebservicesDemo\WebservicesDemo\bin\WebservicesDemo.dll
+c:\users\deharish\documents\visual studio 2013\Projects\WebservicesDemo\WebservicesDemo\bin\WebservicesDemo.pdb
+c:\users\deharish\documents\visual studio 2013\Projects\WebservicesDemo\WebservicesDemo\obj\Debug\WebservicesDemo.csprojResolveAssemblyReference.cache
+c:\users\deharish\documents\visual studio 2013\Projects\WebservicesDemo\WebservicesDemo\obj\Debug\WebservicesDemo.dll
+c:\users\deharish\documents\visual studio 2013\Projects\WebservicesDemo\WebservicesDemo\obj\Debug\WebservicesDemo.pdb

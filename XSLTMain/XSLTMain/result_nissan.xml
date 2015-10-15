@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?><ns0:ProcessPartsShipment releaseID="5.5.4" versionID="5.5.4" systemEnvironmentCode="Production" languageCode="en-US" xmlns:ns0="http://www.starstandard.org/STAR/5" xmlns:ns1="http://www.starstandard.org/STAR/5/codelists" xmlns:ns2="http://www.openapplications.org/oagis/9/unitcode/66411:2001" xmlns:ns3="http://www.openapplications.org/oagis/9/qualifieddatatypes/1.1" xmlns:ns4="http://www.openapplications.org/oagis/9/currencycode/54217:2001" xmlns:ns5="http://www.nmma.org/CodeLists" xmlns:ns6="http://www.openapplications.org/oagis/9/codelists" xmlns:ns7="http://www.openapplications.org/oagis/9" xmlns:ns8="http://www.xfront.com/UnitsOfMeasure" xmlns:ns9="http://www.openapplications.org/oagis/9/unqualifieddatatypes/1.1" xmlns:ns10="http://www.openapplications.org/oagis/9/IANAMIMEMediaTypes:2003" xmlns:ns11="http://www.openapplications.org/oagis/9/languagecode/5639:1988" xmlns:ns12="http://www.starstandard.org/STAR/5/qualifieddatatypes/1.0">
+  
+  <ns0:ApplicationArea>
+    <ns0:Sender>
+      <ns0:CreatorNameCode>NI</ns0:CreatorNameCode>
+      <ns0:SenderNameCode>NI</ns0:SenderNameCode>
+    </ns0:Sender>
+    <ns0:CreationDateTime>2014-08-14T07:14:52</ns0:CreationDateTime>
+    <ns0:BODID>20281373-9b2a-4405-a52a-90980a594225</ns0:BODID>
+    <ns0:Destination>
+      <ns0:DealerNumberID>18054</ns0:DealerNumberID>
+      <ns0:DealerTargetCountry>US</ns0:DealerTargetCountry>
+      <ns0:PartyReceiverID>NNA18054</ns0:PartyReceiverID>
+    </ns0:Destination>
+  </ns0:ApplicationArea>
+  <ns0:ProcessPartsShipmentDataArea>
+  
+    <ns0:Process acknowledgeCode="Always" />
+    <ns0:PartsShipment>
+      <ns0:PartsShipmentHeader>
+        <ns0:DocumentIdentificationGroup>
+          <ns0:DocumentIdentification>
+            <ns0:DocumentID>bafe4c65-43ee-408e-9250-d2c05b790d61</ns0:DocumentID>
+          </ns0:DocumentIdentification>
+          <ns0:AlternateDocumentIdentification>
+            <ns0:DocumentID>TY6962</ns0:DocumentID>
+          </ns0:AlternateDocumentIdentification>
+        </ns0:DocumentIdentificationGroup>
+        <ns0:ShipDate>2014-08-13Z</ns0:ShipDate>
+        <ns0:ShippingPDC>10</ns0:ShippingPDC>
+      </ns0:PartsShipmentHeader>
+      <ns0:PartsShipmentLine>
+        <ns0:ShipmentNumberString />
+        <ns0:PartsProductItem>
+          <ns0:ItemID>809089DA0A</ns0:ItemID>
+        </ns0:PartsProductItem>
+        <ns0:OrderQuantity>-50</ns0:OrderQuantity>
+        <ns0:QuantityShipped>500</ns0:QuantityShipped>
+        <ns0:UnitPackQuantity>-100</ns0:UnitPackQuantity>
+        <ns0:OrderReferenceNumberString>0812NC</ns0:OrderReferenceNumberString>
+        <ns0:ETADate>2014-08-15Z</ns0:ETADate>
+        <ns0:ConveyanceNumberString>AS IS</ns0:ConveyanceNumberString>
+        <ns0:OrderTypeCode>STK</ns0:OrderTypeCode>
+        <ns0:DealerOrderNumberString>16182084</ns0:DealerOrderNumberString>
+      </ns0:PartsShipmentLine>
+    </ns0:PartsShipment>
+  </ns0:ProcessPartsShipmentDataArea>
+</ns0:ProcessPartsShipment>

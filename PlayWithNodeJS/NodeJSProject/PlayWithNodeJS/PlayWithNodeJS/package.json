@@ -1,0 +1,14 @@
+{
+  "name": "PlayWithNodeJS",
+  "version": "0.0.0",
+  "description": "learning Node JS",
+  "main": "server.js",
+  "author": {
+    "name": "Sujith Kumar",
+    "email": "sujith.pallapati@cdk.com"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "underscore": "^1.8.3"
+  }
+}

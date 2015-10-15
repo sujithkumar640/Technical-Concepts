@@ -1,0 +1,7 @@
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingService\bin\Debug\HelloRemotingService.dll
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingService\bin\Debug\HelloRemotingService.pdb
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingService\bin\Debug\IHelloRemotingService.dll
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingService\bin\Debug\IHelloRemotingService.pdb
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingService\obj\Debug\HelloRemotingService.csprojResolveAssemblyReference.cache
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingService\obj\Debug\HelloRemotingService.dll
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingService\obj\Debug\HelloRemotingService.pdb

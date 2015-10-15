@@ -1,0 +1,11 @@
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingWindowService\obj\Debug\HelloRemotingWindowService.csprojResolveAssemblyReference.cache
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingWindowService\obj\Debug\HelloRemotingWindowService.Form1.resources
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingWindowService\obj\Debug\HelloRemotingWindowService.Properties.Resources.resources
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingWindowService\obj\Debug\HelloRemotingWindowService.csproj.GenerateResource.Cache
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingWindowService\bin\Debug\HelloRemotingWindowService.exe.config
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingWindowService\bin\Debug\HelloRemotingWindowService.exe
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingWindowService\bin\Debug\HelloRemotingWindowService.pdb
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingWindowService\bin\Debug\IHelloRemotingService.dll
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingWindowService\bin\Debug\IHelloRemotingService.pdb
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingWindowService\obj\Debug\HelloRemotingWindowService.exe
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\WebservicesDemo\HelloRemotingWindowService\obj\Debug\HelloRemotingWindowService.pdb

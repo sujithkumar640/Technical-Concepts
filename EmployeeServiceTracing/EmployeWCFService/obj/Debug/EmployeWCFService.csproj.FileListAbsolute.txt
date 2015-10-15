@@ -1,0 +1,5 @@
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\EmployeeService\EmployeWCFService\bin\Debug\EmployeWCFService.dll
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\EmployeeService\EmployeWCFService\bin\Debug\EmployeWCFService.pdb
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\EmployeeService\EmployeWCFService\obj\Debug\EmployeWCFService.csprojResolveAssemblyReference.cache
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\EmployeeService\EmployeWCFService\obj\Debug\EmployeWCFService.dll
+C:\Users\deharish\Documents\Visual Studio 2013\Projects\EmployeeService\EmployeWCFService\obj\Debug\EmployeWCFService.pdb

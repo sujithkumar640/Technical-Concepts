@@ -1,0 +1,8 @@
+c:\users\deharish\documents\visual studio 2013\Projects\WCFServiceDemo\WCFServiceHost\bin\Debug\WCFServiceHost.exe.config
+c:\users\deharish\documents\visual studio 2013\Projects\WCFServiceDemo\WCFServiceHost\bin\Debug\WCFServiceHost.exe
+c:\users\deharish\documents\visual studio 2013\Projects\WCFServiceDemo\WCFServiceHost\bin\Debug\WCFServiceHost.pdb
+c:\users\deharish\documents\visual studio 2013\Projects\WCFServiceDemo\WCFServiceHost\bin\Debug\WCFServiceDemo.dll
+c:\users\deharish\documents\visual studio 2013\Projects\WCFServiceDemo\WCFServiceHost\bin\Debug\WCFServiceDemo.pdb
+c:\users\deharish\documents\visual studio 2013\Projects\WCFServiceDemo\WCFServiceHost\obj\Debug\WCFServiceHost.csprojResolveAssemblyReference.cache
+c:\users\deharish\documents\visual studio 2013\Projects\WCFServiceDemo\WCFServiceHost\obj\Debug\WCFServiceHost.exe
+c:\users\deharish\documents\visual studio 2013\Projects\WCFServiceDemo\WCFServiceHost\obj\Debug\WCFServiceHost.pdb

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Customers>
+  <Customer>
+    <Id>1</Id>
+    <Name>Shweta</Name>
+    <Gender>Female</Gender>
+    <DateOfBirth>1989-10-10T00:00:00</DateOfBirth>
+    <EmployeeType>1</EmployeeType>
+    <AnnualSalary>11</AnnualSalary>
+    <HourlyPay>3000</HourlyPay>
+    <HoursWorked>2</HoursWorked>
+  </Customer>
+  <Customer>
+    <Id>2</Id>
+    <Name>Shweta</Name>
+    <Gender>Female</Gender>
+    <DateOfBirth>1989-10-10T00:00:00</DateOfBirth>
+    <EmployeeType>2</EmployeeType>
+    <HourlyPay>1000</HourlyPay>
+    <HoursWorked>5</HoursWorked>
+  </Customer>
+  <Customer>
+    <Id>3</Id>
+    <Name>Jitesh</Name>
+    <Gender>Male</Gender>
+    <DateOfBirth>1989-10-10T00:00:00</DateOfBirth>
+    <EmployeeType>1</EmployeeType>
+    <AnnualSalary>1000000</AnnualSalary>
+  </Customer>
+</Customers>

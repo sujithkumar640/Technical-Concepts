@@ -1,0 +1,6 @@
+c:\users\deharish\documents\visual studio 2013\Projects\XSLTMain\XSLTMain\bin\XSLTMain.dll.config
+c:\users\deharish\documents\visual studio 2013\Projects\XSLTMain\XSLTMain\bin\XSLTMain.dll
+c:\users\deharish\documents\visual studio 2013\Projects\XSLTMain\XSLTMain\bin\XSLTMain.pdb
+c:\users\deharish\documents\visual studio 2013\Projects\XSLTMain\XSLTMain\obj\Debug\XSLTMain.csprojResolveAssemblyReference.cache
+c:\users\deharish\documents\visual studio 2013\Projects\XSLTMain\XSLTMain\obj\Debug\XSLTMain.dll
+c:\users\deharish\documents\visual studio 2013\Projects\XSLTMain\XSLTMain\obj\Debug\XSLTMain.pdb

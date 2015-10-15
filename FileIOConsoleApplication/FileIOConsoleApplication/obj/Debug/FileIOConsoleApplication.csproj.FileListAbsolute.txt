@@ -1,0 +1,6 @@
+c:\users\deharish\documents\visual studio 2013\Projects\FileIOConsoleApplication\FileIOConsoleApplication\bin\Debug\FileIOConsoleApplication.exe.config
+c:\users\deharish\documents\visual studio 2013\Projects\FileIOConsoleApplication\FileIOConsoleApplication\bin\Debug\FileIOConsoleApplication.exe
+c:\users\deharish\documents\visual studio 2013\Projects\FileIOConsoleApplication\FileIOConsoleApplication\bin\Debug\FileIOConsoleApplication.pdb
+c:\users\deharish\documents\visual studio 2013\Projects\FileIOConsoleApplication\FileIOConsoleApplication\obj\Debug\FileIOConsoleApplication.exe
+c:\users\deharish\documents\visual studio 2013\Projects\FileIOConsoleApplication\FileIOConsoleApplication\obj\Debug\FileIOConsoleApplication.pdb
+c:\users\deharish\documents\visual studio 2013\Projects\FileIOConsoleApplication\FileIOConsoleApplication\obj\Debug\FileIOConsoleApplication.csprojResolveAssemblyReference.cache

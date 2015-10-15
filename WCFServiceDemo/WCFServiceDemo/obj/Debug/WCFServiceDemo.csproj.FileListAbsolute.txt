@@ -1,0 +1,6 @@
+c:\users\deharish\documents\visual studio 2013\Projects\WCFServiceDemo\WCFServiceDemo\bin\Debug\WCFServiceDemo.dll.config
+c:\users\deharish\documents\visual studio 2013\Projects\WCFServiceDemo\WCFServiceDemo\bin\Debug\WCFServiceDemo.dll
+c:\users\deharish\documents\visual studio 2013\Projects\WCFServiceDemo\WCFServiceDemo\bin\Debug\WCFServiceDemo.pdb
+c:\users\deharish\documents\visual studio 2013\Projects\WCFServiceDemo\WCFServiceDemo\obj\Debug\WCFServiceDemo.csprojResolveAssemblyReference.cache
+c:\users\deharish\documents\visual studio 2013\Projects\WCFServiceDemo\WCFServiceDemo\obj\Debug\WCFServiceDemo.dll
+c:\users\deharish\documents\visual studio 2013\Projects\WCFServiceDemo\WCFServiceDemo\obj\Debug\WCFServiceDemo.pdb

@@ -1,0 +1,6 @@
+c:\users\deharish\documents\visual studio 2013\Projects\CDK\CDK\bin\CDK.dll.config
+c:\users\deharish\documents\visual studio 2013\Projects\CDK\CDK\bin\CDK.dll
+c:\users\deharish\documents\visual studio 2013\Projects\CDK\CDK\bin\CDK.pdb
+c:\users\deharish\documents\visual studio 2013\Projects\CDK\CDK\obj\Debug\CDK.csprojResolveAssemblyReference.cache
+c:\users\deharish\documents\visual studio 2013\Projects\CDK\CDK\obj\Debug\CDK.dll
+c:\users\deharish\documents\visual studio 2013\Projects\CDK\CDK\obj\Debug\CDK.pdb

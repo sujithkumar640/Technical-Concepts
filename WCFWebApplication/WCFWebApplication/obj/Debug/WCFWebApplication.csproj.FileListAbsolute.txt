@@ -1,0 +1,6 @@
+c:\users\deharish\documents\visual studio 2013\Projects\WCFWebApplication\WCFWebApplication\obj\Debug\WCFWebApplication.csprojResolveAssemblyReference.cache
+c:\users\deharish\documents\visual studio 2013\Projects\WCFWebApplication\WCFWebApplication\bin\WCFWebApplication.dll.config
+c:\users\deharish\documents\visual studio 2013\Projects\WCFWebApplication\WCFWebApplication\bin\WCFWebApplication.dll
+c:\users\deharish\documents\visual studio 2013\Projects\WCFWebApplication\WCFWebApplication\bin\WCFWebApplication.pdb
+c:\users\deharish\documents\visual studio 2013\Projects\WCFWebApplication\WCFWebApplication\obj\Debug\WCFWebApplication.dll
+c:\users\deharish\documents\visual studio 2013\Projects\WCFWebApplication\WCFWebApplication\obj\Debug\WCFWebApplication.pdb

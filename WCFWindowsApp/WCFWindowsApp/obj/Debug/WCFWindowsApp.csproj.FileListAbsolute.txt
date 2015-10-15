@@ -1,0 +1,9 @@
+c:\users\deharish\documents\visual studio 2013\Projects\WCFWindowsApp\WCFWindowsApp\bin\Debug\WCFWindowsApp.exe.config
+c:\users\deharish\documents\visual studio 2013\Projects\WCFWindowsApp\WCFWindowsApp\bin\Debug\WCFWindowsApp.exe
+c:\users\deharish\documents\visual studio 2013\Projects\WCFWindowsApp\WCFWindowsApp\bin\Debug\WCFWindowsApp.pdb
+c:\users\deharish\documents\visual studio 2013\Projects\WCFWindowsApp\WCFWindowsApp\obj\Debug\WCFWindowsApp.csprojResolveAssemblyReference.cache
+c:\users\deharish\documents\visual studio 2013\Projects\WCFWindowsApp\WCFWindowsApp\obj\Debug\WCFWindowsApp.Form1.resources
+c:\users\deharish\documents\visual studio 2013\Projects\WCFWindowsApp\WCFWindowsApp\obj\Debug\WCFWindowsApp.Properties.Resources.resources
+c:\users\deharish\documents\visual studio 2013\Projects\WCFWindowsApp\WCFWindowsApp\obj\Debug\WCFWindowsApp.csproj.GenerateResource.Cache
+c:\users\deharish\documents\visual studio 2013\Projects\WCFWindowsApp\WCFWindowsApp\obj\Debug\WCFWindowsApp.exe
+c:\users\deharish\documents\visual studio 2013\Projects\WCFWindowsApp\WCFWindowsApp\obj\Debug\WCFWindowsApp.pdb
